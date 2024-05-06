@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"Camiseta Boca Jrs.",
+        "precio":140000,
+        "imagen":"https://d22fxaf9t8d39k.cloudfront.net/9b3f4c8669beeecadb903781c3480ce1e9e259f9e4aab820667fc68e570e69c01866.jpg"
+    },
+    {
+        "nombre":"Remera",
+        "precio":40000,
+        "imagen":"https://acdn.mitiendanube.com/stores/002/535/145/products/01_hero_classicpacks2024_desktop_1-1-4d08fc5d92afec1e5e17068017590068-640-0.webp"
+    },
+    {
+        "nombre":"Zapatillas",
+        "precio":160000,
+        "imagen":"https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw2e01dd52/products/ADIE7219/ADIE7219-6.JPG"
+    },
+    {
+        "nombre":"Pantalón",
+        "precio":70000,
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-hvchrGwGKTAS0S1sYuQv8ftqIbK6bw9uzG8CKNmjA&s"
+    },
+    {
+        "nombre":"Gorra",
+        "precio":10000,
+        "imagen":"https://media.newera.com.ar/catalog/product/cache/06cfaa02c67cf3a5c3c05d775284c631/g/o/gorra-new-era-los-angeles-dodgers-acperf-gm-2017-w309ld001-1_2.jpg"
+    },
+    {
+        "nombre":"Medias",
+        "precio":2000,
+        "imagen":"https://redsport.vtexassets.com/arquivos/ids/1138333/MEDIAS-BEST-SOX-ANTIDESLIZANTE-LISA-UNISEX.jpg?v=638174388171230000"
+    }
+]

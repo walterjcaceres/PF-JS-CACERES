@@ -1,0 +1,21 @@
+.italica{
+    font-style: italic;
+}
+
+.negrita{
+    font-weight: bolder;
+}
+
+.finita{
+    font-weight: lighter;
+}
+
+.noVisible{
+    display: none;
+}
+
+.card-img-top {
+    max-width: auto;
+    height: 100%;
+    object-fit: cover;
+  }

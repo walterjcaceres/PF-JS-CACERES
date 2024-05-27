@@ -202,7 +202,7 @@ let btnlimpiarFiltros=document.querySelector("#limpiarFiltros")
 let textMin = document.querySelector("#min")
 let textMax = document.querySelector("#max")
         
-fetch("./data/api.json")
+fetch("../data/api.json")
   .then(res => res.json())
   .then(res => {
   productos = JSON.parse(localStorage.getItem("array")) || res  // toma la info como quedo en el local storage, y si no encuentra nada, obtiene la info de la api simulada en api.json
